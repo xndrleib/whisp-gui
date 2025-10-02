@@ -11,7 +11,7 @@ DEFAULTS = {
     "WHISPER_BIN": str(Path.home() / "whisper.cpp" / "build" / "bin" / "whisper-cli"),
     "WHISPER_MODEL": str(Path.home() / "whisper.cpp" / "models" / "ggml-large-v3.bin"),
     "FFMPEG_BIN": "ffmpeg",
-    "LANG": "ru",
+    "LANG": "en",
     "OUTDIR": "",
     "KEEP_WAV": "0",
     "OVERWRITE": "0",
