@@ -12,6 +12,8 @@ A small, cross-platform Tkinter desktop app to batch-transcribe media using
 
 > Default language is `en` (English) — change it in the UI.
 
+![](app.png)
+
 ---
 
 ## Quick start
